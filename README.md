@@ -7,7 +7,7 @@ Use of <strong>docker-compose</strong> for the deployment of containers, the cre
 
 ## How to run
 
-- run `make` or `make load` to start the docker-compose containers.
+- run `make` or `make run` to start the docker-compose containers.
 - run `make stop` to stop the containers.
 - run `make down` to stop the containers and/or delete the volumes.
 
